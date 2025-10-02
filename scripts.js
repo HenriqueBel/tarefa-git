@@ -1,1 +1,1 @@
-console.log("site carregado!")
+console.log("site carregad!")
